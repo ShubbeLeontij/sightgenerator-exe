@@ -1,3 +1,8 @@
+⛔️ DEPRECATED
+-------------
+Этот проект не будет обновлятся и подлежит удалению.
+Используйте https://github.com/ShubbeLeontij/sightgenerator/releases/
+
 Установка
 ---------
 
